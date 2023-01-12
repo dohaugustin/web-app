@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Dohgies- Home Page</title>
+<title>Doh.technologies- Home Page</title>
 <link href="images/Doh.jpg" rel="icon">
 </head>
 </head>
@@ -40,15 +40,15 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+2406364161
 		ntomfondon@gmail.com @gmail.com
 		<br>
-		<a href="doh@gmail.com">Mail to Dohgies</a>
+		<a href="doh@gmail.com">Mail to Doh.technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Dohgies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://Dohgies.com/">Dohgies,laurel</a> </small></p>
+<p align=center>Doh.technologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2022 by <a href="http://Doh.technologies.com/">Dohgies,laurel</a> </small></p>
 
 </body>
 </html>
