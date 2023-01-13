@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Doh.technologies- Home Page</title>
+<title>Doh.Tech- Home Page</title>
 <link href="images/Doh.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Doh. laurel,MD,USA </h1>
-<h1 align="center"> DOH- Very Good Training center for DevOps with AWS in laurel MD and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to Doh.Tech laurel,MD,USA </h1>
+<h1 align="center"> DOH Tech is a Very Good Training center for DevOps with AWS in laurel MD and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,21 +34,21 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/DOh.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Dohgies, 
-		laurel, Above ICICI Bank, Beside Foods bank,
+		DohTech, 
+		laurel,Bowie Road, Beside SuperBest,
 		laurel,
 		+2406364161
-		ntomfondon@gmail.com @gmail.com
+		ntomfondon@gmail.com
 		<br>
-		<a href="doh@gmail.com">Mail to Doh.technologies</a>
+		<a href="Ntomfondon@gmail.com">Mail to Doh.Tech</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Doh.technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://Doh.technologies.com/">Dohgies,laurel</a> </small></p>
+<p align=center>Doh.Tech - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2022 by <a href="http://Doh.Tech.com/">DohTech,laurel</a> </small></p>
 
 </body>
 </html>
